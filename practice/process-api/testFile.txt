@@ -1,4 +1,0 @@
-what
-pwrite
-what
-cwrite
